@@ -183,15 +183,13 @@ streamlit run app.py
 
 ## 📸 Application Preview
 
-Add screenshots after deployment.
+### 🏠 Home Page
 
-### Home Page
+![Home Page](images/homepage.png)
 
-![Home Page](Screenshot 2026-06-04 at 6.56.24 PM.png)
+### 📊 Prediction Result
 
-### Prediction Result
-
-![Prediction Result](images/prediction.png)
+![Prediction Result](images/prediction_result.png)
 
 ---
 

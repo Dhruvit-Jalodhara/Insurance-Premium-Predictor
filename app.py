@@ -108,7 +108,7 @@ if st.button(" Predict Insurance Premium"):
 
     st.markdown("---")
 
-    st.metric( label="Predicted Insurance Premium", value=f"${prediction[0]:,.2f}" )
+    st.metric( label="Predicted Insurance Premium", value=f"₹ {prediction[0]:,.2f}" )
 
     st.success("Prediction completed successfully!")
 
